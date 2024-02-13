@@ -1,16 +1,17 @@
-### Hi there 👋
+##Hi there 👋
 
-<!--
-**De65/De65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is De65, a web developer, and I'm excited to embark on my journey in the tech world! 🚀
 
-Here are some ideas to get you started:
+##About Me
+ 🔭 I’m still a newbie in the tech world and the experince so far is authentic and relatable
+🌱 I’m currently learning Javascript and React
+💬 Ask me about Javascript
+  
+📫 How to reach me:
+📧 Email: kyalodiana6@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/diana-kyalo-685bab212/
+  
+⚡ Fun fact: @De65 loves running as a hobby 😁. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Javascript, React, Html/Css
