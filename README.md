@@ -3,6 +3,7 @@
 My name is De65, a web developer, and I'm excited to embark on my journey in the tech world! 🚀
 
 ##About Me
+
 🔭 I’m still a newbie in the tech world and the experince so far is authentic and relatable
 🌱 I’m currently learning Javascript and React
 
