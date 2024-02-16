@@ -1,25 +1,24 @@
-##Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-My name is De65, a web developer, and I'm excited to embark on my journey in the tech world! 🚀
+<p align="center">Welcome to my GitHub profile! I'm De65, a passionate web developer excited to be on this journey in the tech world! 🚀</p>
 
-##About Me
+<h2 align="center">About Me</h2>
 
-🔭 I’m still a newbie in the tech world and the experince so far is authentic and relatable
-🌱 I’m currently learning Javascript and React
+<p align="center">I'm still a newbie in the tech world, but every day brings new challenges and exciting discoveries. The experience so far has been authentic and incredibly rewarding. Currently, I'm focusing on mastering JavaScript and diving deep into the world of React to build dynamic and interactive web applications.</p>
 
+<h3 align="center">Contact Me</h3>
 
-💬 Ask me about Javascript
-  
+<p align="center">
+  <a href="mailto:kyalodiana6@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/diana-kyalo-685bab212/">🔗 LinkedIn</a>
+</p>
 
+<p align="center">Feel free to reach out to me if you have any questions or just want to chat about JavaScript or anything related to web development!</p>
 
-📫 How to reach me:
+<h3 align="center">Fun Fact</h3>
 
+<p align="center">Did you know that I love running as a hobby? It's my go-to activity for clearing my mind and staying energized! 🏃‍♀️</p>
 
-📧 Email: kyalodiana6@gmail.com
+<h2 align="center">Languages and Tools</h2>
 
-🔗 LinkedIn:https://www.linkedin.com/in/diana-kyalo-685bab212/
-  
-⚡ Fun fact: @De65 loves running as a hobby 😁. 
-
-Languages and Tools:
-Javascript, React, Html/Css
+<p align="center">JavaScript | React | HTML/CSS</p>
