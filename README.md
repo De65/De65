@@ -21,4 +21,10 @@
 
 <h2 align="center">Languages and Tools</h2>
 
-<p align="center">JavaScript | React | HTML/CSS</p>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/offices/40/000000/react.png" alt="React" title="React" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40"/>
+</p>
+
