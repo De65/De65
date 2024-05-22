@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">
-<img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile!" alt="Welcome Banner" />
-
-</p>
 
 <p align="center">Welcome to my GitHub profile! I'm De65, a passionate web developer excited to be on this journey in the tech world! 🚀</p>
 
