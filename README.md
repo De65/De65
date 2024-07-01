@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/diana-kyalo-685bab212/">🔗 LinkedIn</a>
 </p>
 
-<p align="center">Feel free to reach out if you'd like to connect, share insights, or discuss anything related to web development. I'm always eager to learn from others and exchange ideas!</p>
+<p align="center">Feel free to reach out if you'd like to connect, share insights, or discuss anything tech related. I'm always eager to learn from others and exchange ideas!</p>
 
 <h3 align="center">Fun Fact</h3>
 
