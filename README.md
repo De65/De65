@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">Welcome to my GitHub profile! I'm De65, a passionate web developer excited to be on this journey in the tech world! 🚀</p>
+<p align="center">Welcome to my GitHub profile! I'm De65, a passionate developer excited to be on this journey in the tech world! 🚀</p>
 
 <h2 align="center">About Me</h2>
 
